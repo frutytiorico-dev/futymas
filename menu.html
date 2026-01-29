@@ -21,38 +21,21 @@
 
 
 <script src="js/modernizr-2.6.2.min.js"></script>
-</head>
+<script src="js/menu.js"></script>
 
-<body>
-
-
-
-<div id="page">
-
-<nav class="fh5co-nav" role="navigation">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 text-center logo-wrap">
-				<div id="fh5co-logo"><a href="index.html">Tío Rico<span>.</span></a></div>
-			</div>
-			<div class="col-xs-12 text-center menu-1 menu-wrap">
-				<ul>
-					<li><a href="index.html">Inicio</a></li>
-					<li class="active"><a href="menu.html">Menú</a></li>
-					<li><a href="gallery.html">Galería</a></li>
-					<li><a href="about.html">Nosotros</a></li>
-					<li><a href="contact.html">Contacto</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</nav>
 <style>
+
+.menu-2 {
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
 
 .menu-container{
   position:relative;
   max-width:1400px;
   margin:auto;
+  margin-top: 85px;
 }
 
 .menu-img{
@@ -116,21 +99,65 @@
   pointer-events:auto;
   transform:translateY(0);
 }
+#logo {
+     position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+    background: transparent;
+    z-index: 1001;
+    top: 0;
+    padding: 14px 0;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+
+}
+
+#logo a {
+    font-size: 32px;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    font-family: 'Satisfy', cursive;
+    color: #fff !important;
+}
+
+#logo a span {
+    color: #ea272d;
+}
+
 
 </style>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+
+<div id="page">
+
+<nav class="fh5co-nav" role="navigation">
+	<div class="container">
+		<div class="row">
+      
+			<div class="col-xs-12 text-center logo-wrap">
+				<div id="logo"><a href="index.html">Tío Rico<span>.</span></a></div>
+			</div>
+			<div class="col-xs-12 text-center menu-2 menu-wrap">
+				<ul>
+					<li><a href="index.html">Inicio</a></li>
+					<li class="active"><a href="menu.html">Menú</a></li>
+					<li><a href="about.html">Nosotros</a></li>
+					<li><a href="contact.html">Contacto</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</nav>
+
 
 </head>
 
 <body>
-
-<header>
-  <div class="overlay"></div>
-  <div class="content">
-    <h1>Tío Rico</h1>
-    <h3>Catálogo con Video</h3>
-  </div>
-</header>
-
 <div class="menu-container">
 
   <img src="images/2.png" class="menu-img">
@@ -187,35 +214,8 @@
      style="top:3%; left:41%; width:11%; height:15%">
 </div>
 
-    <!-- PRODUCTO -->
-    <div class="col-md-4 col-sm-6">
-      <div class="product">
-
-        <div class="media-container">
-          <img src="images/1.jpeg" alt="Jugos Naturales">
-
-          <video
-            class="product-video"
-            muted
-            loop
-            playsinline
-            preload="none">
-            <source src="images/1.mp4" type="video/mp4">
-          </video>
-
-          <button class="close-video">✕</button>
-        </div>
-
-        <div class="text-center">
-          <h3>Jugos Naturales</h3>
-          <div class="price">Desde $7.000</div>
-          <p>Mora, fresa, mango, lulo, maracuyá</p>
-        </div>
-
-      </div>
-    </div>
-
-  </div>
+   
+  
 </section>
 
 
@@ -223,4 +223,6 @@
 
 
 </body>
+<script src="js/menu.js"></script>
+
 </html>

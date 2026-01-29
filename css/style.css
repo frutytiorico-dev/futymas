@@ -69,10 +69,12 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
+  margin: 15px 0 20px 0;
   color: #000;
   font-family: "Cormorant Garamond", Georgia, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
+      margin-top: 10px;
 }
 
 ::-webkit-selection {
@@ -127,7 +129,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   font-weight: 700;
-  font-family: "Cormorant Garamond", Georgia, serif;
+  font-family: 'Satisfy', cursive;
   color: #fff !important;
 }
 .scrolled .fh5co-nav #fh5co-logo {
@@ -259,7 +261,7 @@ h1, h2, h3, h4, h5, h6, figure {
   content: '';
   width: 30px;
   height: 2px;
-  background: #ea272d;
+  background: #142689;
   margin: 0 auto;
 }
 
@@ -1043,6 +1045,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog .fh5co-heading h2, #fh5co-contact .fh5co-heading h2 {
   font-family: "Satisfy", cursive;
   color: #fff;
+  margin-top: 23px;
 }
 
 .fh5co-blog {
@@ -1582,47 +1585,47 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #ea272d;
+  background: #783a10e4;
   color: #fff;
-  border: 2px solid #ea272d;
+  border: 2px solid #783a10e4;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ec3e44 !important;
-  border-color: #ec3e44 !important;
+  background: #783a10e4 !important;
+  border-color: #783a10e4 !important;
 }
 .btn-primary.btn-outline {
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   border-radius: 0px;
-  background: transparent;
-  color: #fff;
+  background:  #783a10e4;
+  color: #ffffffe4;
   text-transform: uppercase;
   font-size: 14px !important;
   letter-spacing: 1px;
-  border: 2px solid #ea272d;
+  border: 2px solid #783a10e4;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #ea272d;
+  background: #783a10e4;
   color: #fff;
 }
 
 .btn-success {
-  background: #5cb85c;
+  background: #783a10e4;
   color: #fff;
   border: 2px solid #5cb85c;
 }
 .btn-success:hover, .btn-success:focus, .btn-success:active {
-  background: #4cae4c !important;
+  background: #783a10e4 !important;
   border-color: #4cae4c !important;
 }
 .btn-success.btn-outline {
-  background: transparent;
+  background:  #783a10e4;
   color: #5cb85c;
   border: 2px solid #5cb85c;
 }
 .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
-  background: #5cb85c;
+  background: #783a10e4;
   color: #fff;
 }
 
@@ -1847,3 +1850,120 @@ menu-img {
     vertical-align: middle;
     margin-top: 122px;
 }
+
+
+
+
+
+
+/* ===============================
+   BRANDING TÍO RICO
+================================ */
+
+
+
+/* Fondo general */
+
+
+/* LOGO */
+#fh5co-logo a {
+	font-family: 'Satisfy', cursive;
+	font-size: 42px;
+
+
+	letter-spacing: 1px;
+}
+
+#fh5co-logo span {
+	color: #fff;
+}
+
+/* NAV */
+.fh5co-nav {
+	background: #0f0a0af2(255, 255, 255, 0.95);
+	box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.menu-1 ul li a {
+	font-weight: 600;
+}
+
+.menu-1 ul li.active a,
+.menu-1 ul li a:hover {
+      color: #fff;
+	
+}
+
+/* HERO */
+#fh5co-header .overlay {
+	background: linear-gradient(
+		rgba(0,0,0,0.45),
+		rgba(0,0,0,0.45)
+	);
+}
+
+#fh5co-header h1 {
+
+	text-shadow: 2px 2px 10px rgba(0,0,0,.5);
+}
+
+#fh5co-header h2 {
+	color: #fff;
+	font-weight: 400;
+}
+
+/* BOTONES */
+.btn-primary {
+
+	border: none;
+	color: #fff;
+	font-weight: bold;
+	border-radius: 40px;
+	padding: 12px 28px;
+	transition: all .3s ease;
+}
+
+.btn-primary:hover {
+
+	transform: translateY(-2px);
+	box-shadow: 0 10px 25px rgba(0,0,0,.2);
+}
+
+.btn-outline {
+	background: transparent;
+	border: 2px solid var(--verde);
+	color: #fff;
+}
+
+.btn-outline:hover {
+	background: var(--verde);
+	color: #fff;
+}
+
+/* FORMULARIO */
+#form-wrap {
+	background: #fff;
+	padding: 30px;
+	border-radius: 18px;
+	box-shadow: 0 20px 40px rgba(0,0,0,.08);
+}
+
+#form-wrap label {
+
+	font-weight: 600;
+}
+
+.form-control {
+	border-radius: 12px;
+	border: 1px solid #ddd;
+}
+
+.form-control:focus {
+	border-color: #fff;
+	box-shadow: 0 0 0 2px rgba(123,191,106,.2);
+}
+
+
+
+
+
