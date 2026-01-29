@@ -1,0 +1,264 @@
+"Id","Name","Parent","CPU","Threads","WorkingSet","Path"
+"6880","AdobeCollabSync",,"23,09375","System.Diagnostics.ProcessThreadCollection","11894784","C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe"
+"7376","AdobeCollabSync",,"0,15625","System.Diagnostics.ProcessThreadCollection","344064","C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe"
+"8572","afwServ",,,"System.Diagnostics.ProcessThreadCollection","10592256",
+"1560","AggregatorHost",,,"System.Diagnostics.ProcessThreadCollection","4816896",
+"18824","AppHelperCap",,,"System.Diagnostics.ProcessThreadCollection","2789376",
+"11016","ApplicationFrameHost",,"0,75","System.Diagnostics.ProcessThreadCollection","3784704","C:\WINDOWS\system32\ApplicationFrameHost.exe"
+"5860","aswEngSrv",,,"System.Diagnostics.ProcessThreadCollection","90116096",
+"6776","aswidsagent",,,"System.Diagnostics.ProcessThreadCollection","39288832",
+"4628","aswToolsSvc",,,"System.Diagnostics.ProcessThreadCollection","24072192",
+"24520","audiodg",,"15,40625","System.Diagnostics.ProcessThreadCollection","23183360",
+"4784","AvastSvc",,,"System.Diagnostics.ProcessThreadCollection","120610816",
+"2888","AvastUI",,"54,921875","System.Diagnostics.ProcessThreadCollection","45346816","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"4728","AvastUI",,"0,34375","System.Diagnostics.ProcessThreadCollection","5271552","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"14440","AvastUI",,"0,78125","System.Diagnostics.ProcessThreadCollection","10219520","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"17900","AvastUI",,"0,90625","System.Diagnostics.ProcessThreadCollection","12394496","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"18256","AvastUI",,"0,75","System.Diagnostics.ProcessThreadCollection","5660672","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"13236","backgroundTaskHost",,"1,40625","System.Diagnostics.ProcessThreadCollection","6754304","C:\WINDOWS\system32\backgroundTaskHost.exe"
+"15912","backgroundTaskHost",,"0,65625","System.Diagnostics.ProcessThreadCollection","69632","C:\WINDOWS\system32\backgroundTaskHost.exe"
+"19524","backgroundTaskHost",,"0,140625","System.Diagnostics.ProcessThreadCollection","57344","C:\windows\system32\backgroundTaskHost.exe"
+"15616","CCleaner",,"0,546875","System.Diagnostics.ProcessThreadCollection","3452928",
+"17676","CCleaner_service",,,"System.Diagnostics.ProcessThreadCollection","30588928",
+"1084","chrome",,"40,5625","System.Diagnostics.ProcessThreadCollection","80498688","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"3412","chrome",,"38,46875","System.Diagnostics.ProcessThreadCollection","73768960","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"5752","chrome",,"32,640625","System.Diagnostics.ProcessThreadCollection","71258112","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"6016","chrome",,"1,875","System.Diagnostics.ProcessThreadCollection","6418432","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"6116","chrome",,"0,09375","System.Diagnostics.ProcessThreadCollection","2076672","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"6132","chrome",,"12,9375","System.Diagnostics.ProcessThreadCollection","67436544","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"7548","chrome",,"5,65625","System.Diagnostics.ProcessThreadCollection","21278720","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"7652","chrome",,"75,828125","System.Diagnostics.ProcessThreadCollection","141852672","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"7752","chrome",,"3,96875","System.Diagnostics.ProcessThreadCollection","3170304","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"8520","chrome",,"1818,921875","System.Diagnostics.ProcessThreadCollection","752394240","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"8696","chrome",,"0,140625","System.Diagnostics.ProcessThreadCollection","32661504","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"10824","chrome",,"18,578125","System.Diagnostics.ProcessThreadCollection","84471808","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"11112","chrome",,"499,375","System.Diagnostics.ProcessThreadCollection","178610176","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"11656","chrome",,"0,40625","System.Diagnostics.ProcessThreadCollection","5267456","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"14188","chrome",,"0,453125","System.Diagnostics.ProcessThreadCollection","3534848","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"14272","chrome",,"2,359375","System.Diagnostics.ProcessThreadCollection","7507968","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"15124","chrome",,"278,546875","System.Diagnostics.ProcessThreadCollection","184545280","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"18084","chrome",,"0,828125","System.Diagnostics.ProcessThreadCollection","5120000","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"18728","chrome",,"4,125","System.Diagnostics.ProcessThreadCollection","9728000","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"19232","chrome",,"63,75","System.Diagnostics.ProcessThreadCollection","195784704","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"19364","chrome",,"55,265625","System.Diagnostics.ProcessThreadCollection","31830016","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"19432","chrome",,"3,234375","System.Diagnostics.ProcessThreadCollection","3149824","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"20416","chrome",,"37,4375","System.Diagnostics.ProcessThreadCollection","148492288","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"23512","chrome",,"2,84375","System.Diagnostics.ProcessThreadCollection","35344384","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"22156","cmd",,"0","System.Diagnostics.ProcessThreadCollection","8273920","C:\WINDOWS\system32\cmd.exe"
+"1908","Code",,"104,15625","System.Diagnostics.ProcessThreadCollection","84205568","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"4032","Code",,"4,8125","System.Diagnostics.ProcessThreadCollection","1740800","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"5796","Code",,"86,109375","System.Diagnostics.ProcessThreadCollection","49029120","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"6076","Code",,"17,4375","System.Diagnostics.ProcessThreadCollection","24854528","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"6296","Code",,"20,234375","System.Diagnostics.ProcessThreadCollection","14118912","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"8360","Code",,"12,234375","System.Diagnostics.ProcessThreadCollection","21536768","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"8784","Code",,"1,75","System.Diagnostics.ProcessThreadCollection","1048576","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"10480","Code",,"204,515625","System.Diagnostics.ProcessThreadCollection","212164608","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"10840","Code",,"30,21875","System.Diagnostics.ProcessThreadCollection","66969600","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"11592","Code",,"2,1875","System.Diagnostics.ProcessThreadCollection","11632640","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"17520","Code",,"0,0625","System.Diagnostics.ProcessThreadCollection","933888","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"19152","Code",,"2,359375","System.Diagnostics.ProcessThreadCollection","65536","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"19536","Code",,"5,578125","System.Diagnostics.ProcessThreadCollection","18300928","C:\Users\YENY\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"8668","conhost",,"0,0625","System.Diagnostics.ProcessThreadCollection","192512","C:\WINDOWS\system32\conhost.exe"
+"14940","conhost",,"0,953125","System.Diagnostics.ProcessThreadCollection","1404928","C:\WINDOWS\system32\conhost.exe"
+"8872","Copilot",,"8,109375","System.Diagnostics.ProcessThreadCollection","20172800","C:\Program Files\WindowsApps\Microsoft.Copilot_1.25121.73.0_x64__8wekyb3d8bbwe\Copilot.exe"
+"23304","crashhelper",,"0","System.Diagnostics.ProcessThreadCollection","1183744","C:\Program Files\Mozilla Firefox\crashhelper.exe"
+"6692","CrossDeviceResume",,"1,109375","System.Diagnostics.ProcessThreadCollection","3678208","C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe"
+"1080","csrss",,,"System.Diagnostics.ProcessThreadCollection","2228224",
+"19012","csrss",,,"System.Diagnostics.ProcessThreadCollection","1454080",
+"19368","ctfmon",,"29,1875","System.Diagnostics.ProcessThreadCollection","10985472",
+"2720","DiagsCap",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"8736","dllhost",,"0,078125","System.Diagnostics.ProcessThreadCollection","2269184","C:\WINDOWS\system32\DllHost.exe"
+"17760","dllhost",,"0,078125","System.Diagnostics.ProcessThreadCollection","2039808","C:\WINDOWS\system32\DllHost.exe"
+"16676","dwm",,,"System.Diagnostics.ProcessThreadCollection","40501248",
+"11172","EXCEL",,"3,78125","System.Diagnostics.ProcessThreadCollection","4747264","C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE"
+"3236","explorer",,"166,1875","System.Diagnostics.ProcessThreadCollection","124076032","C:\WINDOWS\Explorer.EXE"
+"1212","firefox",,"0,109375","System.Diagnostics.ProcessThreadCollection","4870144","C:\Program Files\Mozilla Firefox\firefox.exe"
+"6280","firefox",,"0,140625","System.Diagnostics.ProcessThreadCollection","9531392","C:\Program Files\Mozilla Firefox\firefox.exe"
+"7228","firefox",,"0,1875","System.Diagnostics.ProcessThreadCollection","8531968","C:\Program Files\Mozilla Firefox\firefox.exe"
+"13848","firefox",,"1,453125","System.Diagnostics.ProcessThreadCollection","32288768","C:\Program Files\Mozilla Firefox\firefox.exe"
+"13976","firefox",,"90,59375","System.Diagnostics.ProcessThreadCollection","141139968","C:\Program Files\Mozilla Firefox\firefox.exe"
+"14120","firefox",,"0,171875","System.Diagnostics.ProcessThreadCollection","8581120","C:\Program Files\Mozilla Firefox\firefox.exe"
+"16836","firefox",,"17,140625","System.Diagnostics.ProcessThreadCollection","47529984","C:\Program Files\Mozilla Firefox\firefox.exe"
+"18140","firefox",,"0,109375","System.Diagnostics.ProcessThreadCollection","7372800","C:\Program Files\Mozilla Firefox\firefox.exe"
+"20036","firefox",,"0,609375","System.Diagnostics.ProcessThreadCollection","20533248","C:\Program Files\Mozilla Firefox\firefox.exe"
+"22008","firefox",,"0,078125","System.Diagnostics.ProcessThreadCollection","5738496","C:\Program Files\Mozilla Firefox\firefox.exe"
+"23836","firefox",,"49,359375","System.Diagnostics.ProcessThreadCollection","212692992","C:\Program Files\Mozilla Firefox\firefox.exe"
+"24384","firefox",,"0,234375","System.Diagnostics.ProcessThreadCollection","8601600","C:\Program Files\Mozilla Firefox\firefox.exe"
+"7208","fontdrvhost",,,"System.Diagnostics.ProcessThreadCollection","188416",
+"18560","fontdrvhost",,,"System.Diagnostics.ProcessThreadCollection","20480",
+"14660","HPAudioSwitch",,"3,640625","System.Diagnostics.ProcessThreadCollection","6983680","C:\Program Files (x86)\HP\HPAudioSwitch\HPAudioSwitch.exe"
+"7516","HPEnhancedLighting.Bg",,"0,28125","System.Diagnostics.ProcessThreadCollection","2048000","C:\Program Files\WindowsApps\AD2F1837.HPEnhance_1.4.4.0_x64__v10z8vjag6ke6\Win32\HPEnhancedLighting.Bg.exe"
+"10328","HPMediaNetwork",,"1,640625","System.Diagnostics.ProcessThreadCollection","11681792","C:\Program Files\HP\HP Media Network\HPMediaNetwork.exe"
+"19244","HPPrintScanDoctorService",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"15300","HPSystemEventUtilityBackground",,"22,34375","System.Diagnostics.ProcessThreadCollection","9572352","C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.15.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityBackground.exe"
+"23724","HPSystemEventUtilityHost",,"0,609375","System.Diagnostics.ProcessThreadCollection","4194304","C:\Program Files\WindowsApps\AD2F1837.HPSystemEventUtility_3.2.15.0_x64__v10z8vjag6ke6\SystemEventUtility\HPSystemEventUtilityHost.exe"
+"0","Idle",,,"System.Diagnostics.ProcessThreadCollection","8192",
+"7748","ipf_helper",,"11,8125","System.Diagnostics.ProcessThreadCollection","1122304","C:\WINDOWS\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_cf5beef3831571d4\ipf_helper.exe"
+"16184","ipf_uf",,,"System.Diagnostics.ProcessThreadCollection","1908736",
+"8100","ipfsvc",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"22356","LockApp",,"1,3125","System.Diagnostics.ProcessThreadCollection","135168","C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"
+"4612","LsaIso",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"1340","lsass",,,"System.Diagnostics.ProcessThreadCollection","11100160",
+"3440","Memory Compression",,,"System.Diagnostics.ProcessThreadCollection","22048768",
+"4604","msedge",,"0,109375","System.Diagnostics.ProcessThreadCollection","1208320","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"13408","msedge",,"0,28125","System.Diagnostics.ProcessThreadCollection","2277376","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"19000","msedge",,"0,671875","System.Diagnostics.ProcessThreadCollection","6950912","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"19144","msedge",,"20,90625","System.Diagnostics.ProcessThreadCollection","35454976","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"19972","msedge",,"1,3125","System.Diagnostics.ProcessThreadCollection","13877248","C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+"2632","msedgewebview2",,"1,5625","System.Diagnostics.ProcessThreadCollection","7041024","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"6352","msedgewebview2",,"5,65625","System.Diagnostics.ProcessThreadCollection","9158656","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"7964","msedgewebview2",,"1,625","System.Diagnostics.ProcessThreadCollection","684032","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"8024","msedgewebview2",,"3","System.Diagnostics.ProcessThreadCollection","5079040","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"10552","msedgewebview2",,"7,296875","System.Diagnostics.ProcessThreadCollection","4665344","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"10984","msedgewebview2",,"5,296875","System.Diagnostics.ProcessThreadCollection","7237632","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"11164","msedgewebview2",,"0,046875","System.Diagnostics.ProcessThreadCollection","888832","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"14020","msedgewebview2",,"0,46875","System.Diagnostics.ProcessThreadCollection","49152","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"15800","msedgewebview2",,"6,734375","System.Diagnostics.ProcessThreadCollection","22396928","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"16024","msedgewebview2",,"12,65625","System.Diagnostics.ProcessThreadCollection","659456","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"17652","msedgewebview2",,"0,0625","System.Diagnostics.ProcessThreadCollection","1146880","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"20280","msedgewebview2",,"0,390625","System.Diagnostics.ProcessThreadCollection","2183168","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\143.0.3650.139\msedgewebview2.exe"
+"8424","NetworkCap",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"9232","OmenCommandCenterBackground",,"278,765625","System.Diagnostics.ProcessThreadCollection","105160704","C:\Program Files\WindowsApps\AD2F1837.OMENCommandCenter_1101.2512.8.0_x64__v10z8vjag6ke6\OmenCommandCenterApp\OmenCommandCenterBackground.exe"
+"17484","OmenInstallMonitor",,"1,671875","System.Diagnostics.ProcessThreadCollection","3981312",
+"22416","OpenConsole",,"0,3125","System.Diagnostics.ProcessThreadCollection","1576960","C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.13503.0_x64__8wekyb3d8bbwe\OpenConsole.exe"
+"18708","OverlayHelper",,"4,1875","System.Diagnostics.ProcessThreadCollection","4300800",
+"6496","powershell",,"1,84375","System.Diagnostics.ProcessThreadCollection","78913536","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"14960","powershell",,"10,125","System.Diagnostics.ProcessThreadCollection","19800064","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"24248","powershell",,"60,75","System.Diagnostics.ProcessThreadCollection","40034304","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"5844","python",,"0,03125","System.Diagnostics.ProcessThreadCollection","18345984","C:\Python314\python.exe"
+"232","Registry",,,"System.Diagnostics.ProcessThreadCollection","16441344",
+"6500","RtkAudUService64",,"1,734375","System.Diagnostics.ProcessThreadCollection","3891200","C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_04ff63d068f8c626\RtkAudUService64.exe"
+"8844","RtkAudUService64",,,"System.Diagnostics.ProcessThreadCollection","4141056",
+"18552","RtkAudUService64",,,"System.Diagnostics.ProcessThreadCollection","2891776",
+"8864","RtkBtManServ",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"2816","RuntimeBroker",,"1,140625","System.Diagnostics.ProcessThreadCollection","2834432","C:\Windows\System32\RuntimeBroker.exe"
+"9268","RuntimeBroker",,"0,171875","System.Diagnostics.ProcessThreadCollection","798720","C:\Windows\System32\RuntimeBroker.exe"
+"14216","RuntimeBroker",,"0,9375","System.Diagnostics.ProcessThreadCollection","3686400","C:\Windows\System32\RuntimeBroker.exe"
+"15028","RuntimeBroker",,"0,0625","System.Diagnostics.ProcessThreadCollection","6574080","C:\Windows\System32\RuntimeBroker.exe"
+"16000","RuntimeBroker",,"0,625","System.Diagnostics.ProcessThreadCollection","2605056","C:\Windows\System32\RuntimeBroker.exe"
+"19408","RuntimeBroker",,"2,578125","System.Diagnostics.ProcessThreadCollection","9216000","C:\Windows\System32\RuntimeBroker.exe"
+"22572","RuntimeBroker",,"1,609375","System.Diagnostics.ProcessThreadCollection","6234112","C:\Windows\System32\RuntimeBroker.exe"
+"19944","SearchFilterHost",,,"System.Diagnostics.ProcessThreadCollection","11726848",
+"1244","SearchHost",,"8,4375","System.Diagnostics.ProcessThreadCollection","11395072","C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"
+"8272","SearchIndexer",,,"System.Diagnostics.ProcessThreadCollection","19324928",
+"19976","SearchProtocolHost",,,"System.Diagnostics.ProcessThreadCollection","15556608",
+"5968","SECOCL64",,"0,265625","System.Diagnostics.ProcessThreadCollection","2371584","C:\WINDOWS\System32\SECOCL64.exe"
+"8888","SECOMN64",,,"System.Diagnostics.ProcessThreadCollection","2670592",
+"188","Secure System",,,"System.Diagnostics.ProcessThreadCollection","41656320",
+"1308","services",,,"System.Diagnostics.ProcessThreadCollection","6139904",
+"19756","ShellExperienceHost",,"2,171875","System.Diagnostics.ProcessThreadCollection","4202496","C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"
+"14924","ShellHost",,"0,25","System.Diagnostics.ProcessThreadCollection","5091328","C:\Windows\System32\ShellHost.exe"
+"16604","sihost",,"10,5625","System.Diagnostics.ProcessThreadCollection","12935168","C:\WINDOWS\system32\sihost.exe"
+"796","smss",,,"System.Diagnostics.ProcessThreadCollection","8192",
+"5212","spoolsv",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"12260","sppsvc",,,"System.Diagnostics.ProcessThreadCollection","7720960",
+"16236","StartMenuExperienceHost",,"7,203125","System.Diagnostics.ProcessThreadCollection","11145216","C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"
+"1400","svchost",,,"System.Diagnostics.ProcessThreadCollection","1044480",
+"1476","svchost",,,"System.Diagnostics.ProcessThreadCollection","19189760",
+"1644","svchost",,,"System.Diagnostics.ProcessThreadCollection","13766656",
+"1704","svchost",,,"System.Diagnostics.ProcessThreadCollection","3624960",
+"1836","svchost",,,"System.Diagnostics.ProcessThreadCollection","2621440",
+"1992","svchost",,,"System.Diagnostics.ProcessThreadCollection","1318912",
+"2000","svchost",,,"System.Diagnostics.ProcessThreadCollection","839680",
+"2008","svchost",,,"System.Diagnostics.ProcessThreadCollection","3022848",
+"2072","svchost",,,"System.Diagnostics.ProcessThreadCollection","5312512",
+"2080","svchost",,,"System.Diagnostics.ProcessThreadCollection","1425408",
+"2092","svchost",,,"System.Diagnostics.ProcessThreadCollection","4710400",
+"2200","svchost",,,"System.Diagnostics.ProcessThreadCollection","8986624",
+"2220","svchost",,,"System.Diagnostics.ProcessThreadCollection","2318336",
+"2272","svchost",,,"System.Diagnostics.ProcessThreadCollection","1200128",
+"2280","svchost",,,"System.Diagnostics.ProcessThreadCollection","1159168",
+"2396","svchost",,,"System.Diagnostics.ProcessThreadCollection","917504",
+"2476","svchost",,,"System.Diagnostics.ProcessThreadCollection","8822784",
+"2500","svchost",,,"System.Diagnostics.ProcessThreadCollection","2588672",
+"2548","svchost",,,"System.Diagnostics.ProcessThreadCollection","5419008",
+"2600","svchost",,,"System.Diagnostics.ProcessThreadCollection","4173824",
+"2896","svchost",,,"System.Diagnostics.ProcessThreadCollection","2617344",
+"2940","svchost",,,"System.Diagnostics.ProcessThreadCollection","1241088",
+"3056","svchost",,,"System.Diagnostics.ProcessThreadCollection","798720",
+"3160","svchost",,,"System.Diagnostics.ProcessThreadCollection","1994752",
+"3264","svchost",,,"System.Diagnostics.ProcessThreadCollection","7766016",
+"3316","svchost",,,"System.Diagnostics.ProcessThreadCollection","1396736",
+"3324","svchost",,,"System.Diagnostics.ProcessThreadCollection","6459392",
+"3332","svchost",,,"System.Diagnostics.ProcessThreadCollection","1519616",
+"3488","svchost",,,"System.Diagnostics.ProcessThreadCollection","565248",
+"3616","svchost",,,"System.Diagnostics.ProcessThreadCollection","2437120",
+"3632","svchost",,,"System.Diagnostics.ProcessThreadCollection","3215360",
+"3848","svchost",,,"System.Diagnostics.ProcessThreadCollection","7528448",
+"3864","svchost",,,"System.Diagnostics.ProcessThreadCollection","11001856",
+"3892","svchost",,"2,265625","System.Diagnostics.ProcessThreadCollection","9719808","C:\WINDOWS\system32\svchost.exe"
+"3936","svchost",,,"System.Diagnostics.ProcessThreadCollection","13996032",
+"4084","svchost",,,"System.Diagnostics.ProcessThreadCollection","12062720",
+"4120","svchost",,,"System.Diagnostics.ProcessThreadCollection","1191936",
+"4176","svchost",,,"System.Diagnostics.ProcessThreadCollection","1376256",
+"4540","svchost",,,"System.Diagnostics.ProcessThreadCollection","2961408",
+"4712","svchost",,,"System.Diagnostics.ProcessThreadCollection","6012928",
+"4776","svchost",,,"System.Diagnostics.ProcessThreadCollection","1880064",
+"5004","svchost",,,"System.Diagnostics.ProcessThreadCollection","991232",
+"5012","svchost",,,"System.Diagnostics.ProcessThreadCollection","1343488",
+"5088","svchost",,,"System.Diagnostics.ProcessThreadCollection","7942144",
+"5396","svchost",,,"System.Diagnostics.ProcessThreadCollection","2498560",
+"5540","svchost",,,"System.Diagnostics.ProcessThreadCollection","2240512",
+"5556","svchost",,"0,765625","System.Diagnostics.ProcessThreadCollection","1507328","C:\WINDOWS\system32\svchost.exe"
+"5584","svchost",,,"System.Diagnostics.ProcessThreadCollection","1261568",
+"5716","svchost",,,"System.Diagnostics.ProcessThreadCollection","884736",
+"6204","svchost",,,"System.Diagnostics.ProcessThreadCollection","9650176",
+"6540","svchost",,,"System.Diagnostics.ProcessThreadCollection","1167360",
+"6748","svchost",,,"System.Diagnostics.ProcessThreadCollection","2912256",
+"6792","svchost",,,"System.Diagnostics.ProcessThreadCollection","13012992",
+"6828","svchost",,,"System.Diagnostics.ProcessThreadCollection","15949824",
+"7348","svchost",,,"System.Diagnostics.ProcessThreadCollection","3223552",
+"7796","svchost",,,"System.Diagnostics.ProcessThreadCollection","2203648",
+"7872","svchost",,,"System.Diagnostics.ProcessThreadCollection","1400832",
+"7896","svchost",,,"System.Diagnostics.ProcessThreadCollection","1642496",
+"8000","svchost",,,"System.Diagnostics.ProcessThreadCollection","1531904",
+"8212","svchost",,,"System.Diagnostics.ProcessThreadCollection","11292672",
+"8580","svchost",,,"System.Diagnostics.ProcessThreadCollection","999424",
+"8620","svchost",,,"System.Diagnostics.ProcessThreadCollection","16113664",
+"8628","svchost",,,"System.Diagnostics.ProcessThreadCollection","14909440",
+"8808","svchost",,,"System.Diagnostics.ProcessThreadCollection","520192",
+"8856","svchost",,,"System.Diagnostics.ProcessThreadCollection","1249280",
+"8988","svchost",,,"System.Diagnostics.ProcessThreadCollection","86016",
+"9052","svchost",,,"System.Diagnostics.ProcessThreadCollection","2117632",
+"9064","svchost",,,"System.Diagnostics.ProcessThreadCollection","1245184",
+"9568","svchost",,,"System.Diagnostics.ProcessThreadCollection","1212416",
+"10448","svchost",,,"System.Diagnostics.ProcessThreadCollection","5115904",
+"10808","svchost",,,"System.Diagnostics.ProcessThreadCollection","1056768",
+"10904","svchost",,,"System.Diagnostics.ProcessThreadCollection","8765440",
+"11652","svchost",,,"System.Diagnostics.ProcessThreadCollection","7200768",
+"11964","svchost",,,"System.Diagnostics.ProcessThreadCollection","831488",
+"12228","svchost",,"0,40625","System.Diagnostics.ProcessThreadCollection","2514944","C:\WINDOWS\system32\svchost.exe"
+"12820","svchost",,"0,109375","System.Diagnostics.ProcessThreadCollection","1171456","C:\WINDOWS\system32\svchost.exe"
+"13992","svchost",,,"System.Diagnostics.ProcessThreadCollection","516096",
+"14428","svchost",,"0,4375","System.Diagnostics.ProcessThreadCollection","2535424","C:\WINDOWS\system32\svchost.exe"
+"15136","svchost",,"0,171875","System.Diagnostics.ProcessThreadCollection","1523712","C:\WINDOWS\system32\svchost.exe"
+"15376","svchost",,"2,515625","System.Diagnostics.ProcessThreadCollection","8642560","C:\WINDOWS\system32\svchost.exe"
+"15700","svchost",,"0,0625","System.Diagnostics.ProcessThreadCollection","1040384","C:\WINDOWS\system32\svchost.exe"
+"17264","svchost",,,"System.Diagnostics.ProcessThreadCollection","1306624",
+"17980","svchost",,,"System.Diagnostics.ProcessThreadCollection","1875968",
+"18664","svchost",,,"System.Diagnostics.ProcessThreadCollection","3334144",
+"20600","svchost",,,"System.Diagnostics.ProcessThreadCollection","4861952",
+"23412","svchost",,,"System.Diagnostics.ProcessThreadCollection","1007616",
+"3608","SysInfoCap",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"4","System",,,"System.Diagnostics.ProcessThreadCollection","1425408",
+"19780","SystemSettings",,"10,078125","System.Diagnostics.ProcessThreadCollection","14069760","C:\Windows\ImmersiveControlPanel\SystemSettings.exe"
+"2660","taskhostw",,"0,8125","System.Diagnostics.ProcessThreadCollection","499712",
+"13296","taskhostw",,"0,953125","System.Diagnostics.ProcessThreadCollection","5472256","C:\WINDOWS\system32\taskhostw.exe"
+"8952","TeamViewer_Service",,,"System.Diagnostics.ProcessThreadCollection","589824",
+"3584","TouchpointAnalyticsClientService",,,"System.Diagnostics.ProcessThreadCollection","13963264",
+"4548","unsecapp",,,"System.Diagnostics.ProcessThreadCollection","3039232",
+"18808","unsecapp",,"0,171875","System.Diagnostics.ProcessThreadCollection","2891776","C:\WINDOWS\system32\wbem\unsecapp.exe"
+"14820","Widgets",,"6,828125","System.Diagnostics.ProcessThreadCollection","13176832","C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_525.31002.150.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe"
+"2124","WidgetService",,"1,171875","System.Diagnostics.ProcessThreadCollection","2740224","C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe"
+"21596","WindowsTerminal",,"17,421875","System.Diagnostics.ProcessThreadCollection","66076672","C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.23.13503.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe"
+"1164","wininit",,,"System.Diagnostics.ProcessThreadCollection","475136",
+"6136","winlogon",,,"System.Diagnostics.ProcessThreadCollection","495616",
+"4808","WmiPrvSE",,,"System.Diagnostics.ProcessThreadCollection","6463488",
+"9588","WmiPrvSE",,,"System.Diagnostics.ProcessThreadCollection","10948608",
+"9008","WMIRegistrationService",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"3308","wsc_proxy",,,"System.Diagnostics.ProcessThreadCollection","573440",
+"10008","wslservice",,,"System.Diagnostics.ProcessThreadCollection","2174976",
+"1524","WUDFHost",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"1732","WUDFHost",,,"System.Diagnostics.ProcessThreadCollection","4096",
+"1888","WUDFHost",,,"System.Diagnostics.ProcessThreadCollection","5767168",
+"2652","WUDFHost",,,"System.Diagnostics.ProcessThreadCollection","3534848",
