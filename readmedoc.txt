@@ -8,12 +8,13 @@ gcloud services enable compute.googleapis.com
 
 docker tag 
 
-docker tag fast-web us-central1-docker.pkg.dev/lunar-pact-484800-c3/fast-repo/fast-web:latest
-docker push us-central1-docker.pkg.dev/lunar-pact-484800-c3/fast-repo/fast-web:latest
+docker build -t fast-web3 .
+docker tag fast-web3 us-central1-docker.pkg.dev/lunar-pact-484800-c3/fast-repo/fast-web3:latest
+docker push us-central1-docker.pkg.dev/lunar-pact-484800-c3/fast-repo/fast-web3:latest
 
 
 VM 
-gcloud compute instances create fast-web-vm `
+gcloud compute instances create fast-web1-vm `
   --zone=us-central1-a `
   --machine-type=e2-micro `
   --image-family=ubuntu-2204-lts `

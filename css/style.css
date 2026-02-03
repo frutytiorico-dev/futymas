@@ -69,7 +69,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  margin: 15px 0 20px 0;
+  margin: 15px 0 0px 0;
   color: #000;
   font-family: "Cormorant Garamond", Georgia, serif;
   font-weight: 400;
@@ -477,9 +477,12 @@ h1, h2, h3, h4, h5, h6, figure {
     max-width: 30%;
   }
 }
+element.style {
+    height: 495px;
+}
 
 #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
-  margin-bottom: 170px;
+  margin-bottom: 10px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
